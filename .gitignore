@@ -1,0 +1,6 @@
+/config.local.php
+data/*.sqlite*
+data/*.log
+data/photos/
+data/cards/
+.DS_Store
