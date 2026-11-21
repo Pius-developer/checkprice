@@ -4,3 +4,4 @@ data/*.log
 data/photos/
 data/cards/
 .DS_Store
+DEPLOY.md

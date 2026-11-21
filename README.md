@@ -60,6 +60,5 @@ php bin/alerts.php       # sends price alerts (cron runs this daily in productio
 | `bin/alerts.php` | Daily price-alert emails |
 | `tests/run.php` | Tests |
 
-Deploying: see [DEPLOY.md](DEPLOY.md).
 
 Built by **Ejike Pius** ([@ejike_pius](https://x.com/ejike_pius), [ejikepius.dev](https://ejikepius.dev)). MIT licence.
